@@ -35,7 +35,7 @@ span {
 	text-align: center;
 	justify-content: center;
 	align-items: center;
-	background-image: url(/images/BwAstro.png);
+	background-image: url(/BwAstro.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
@@ -61,7 +61,7 @@ span {
 .quote {
 	display: flex;
 	align-items: center;
-	background-image: url(/images/nasa@2x.png);
+	background-image: url(/nasa@2x.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -81,13 +81,13 @@ span {
 	color: white;
 	width: 100%;
 	height: 20vh;
-	background-image: url(/images/justice-dodson.png);
+	background-image: url(/justice-dodson.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 .how {
-	background-image: url(/images/paul-gilmore-RtQ42GAm21g-unsplash@2x.png);
+	background-image: url(/paul-gilmore-RtQ42GAm21g-unsplash@2x.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -100,7 +100,7 @@ span {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-image: url(/images/AstronautGroup.png);
+	background-image: url(/AstronautGroup.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;

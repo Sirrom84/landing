@@ -30,7 +30,7 @@ export default function Home() {
 					<strong>YOU</strong> with a guide.
 				</p>
 				<div className="how">
-					<img src="/images/BwAstro.png" alt="astro" />
+					<img src="/BwAstro.png" alt="astro" />
 				</div>
 				<div className="banner">How Does It Work?</div>
 				<p>
