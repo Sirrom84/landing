@@ -17,7 +17,7 @@ a {
 }
 span {
 	font-family: Mercury-Bold;
-	font-size: 6rem;
+	font-size: 4rem;
 }
 .container {
 	color: white;
@@ -64,11 +64,13 @@ span {
 	flex-wrap: wrap;
 	height: 100vh;
 	text-align: center;
+	font-weight: bold;
 }
 
 .banner {
 	display: flex;
 	justify-content: flex-start;
+	align-items: center;
 	font-size: 60px;
 	font-family: Favorit-Regular, Helvetica, Avenir, sans-serif;
 	color: white;
@@ -91,14 +93,14 @@ span {
 }
 .accept {
 	display: flex;
-	justify-content: center;
 	align-items: center;
-	text-align: center;
+	justify-content: center;
 	background-image: url(/images/AstronautGroup.png);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	background-position: center center;
-	width: 100vw;
+	background-attachment: fixed;
 	height: 100vh;
+	text-align: center;
+	font-weight: bold;
 }
