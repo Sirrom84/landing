@@ -9,7 +9,7 @@ export default function Home() {
 			</Head>
 			<h1 className="title"> What's Sphere?</h1>
 			<div className="container">
-				<div className="tested">
+				<div className="quote">
 					{" "}
 					<span>
 						"It is never too late to be who you might have been." <br /> -
@@ -29,7 +29,7 @@ export default function Home() {
 					the walled gardens of self-care and improvement and help connect{" "}
 					<strong>YOU</strong> with a guide.
 				</p>
-				<div className="why">
+				<div className="how">
 					<img src="/images/BwAstro.png" alt="astro" />
 				</div>
 				<div className="banner">How Does It Work?</div>
@@ -50,7 +50,7 @@ export default function Home() {
 					find you click with a guide you can conveniently book further sessions
 					all in the app. It’s that easy.
 				</p>
-				<div className="accept">
+				<div className="conclude">
 					<h1>
 						Take your potential<br></br> to new heights
 						<br /> <br />
